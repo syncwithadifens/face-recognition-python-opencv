@@ -1,6 +1,6 @@
 
-## Facial Recognition Demo
-facial recognition program with PyQT5 GUI.
+## Face Recognition With OpenCV
+face recognition program with PyQT5 GUI.
 
 
 ## Dependencies
